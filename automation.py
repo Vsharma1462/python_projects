@@ -31,15 +31,6 @@ image_paths = {
 
 # Amounts for betting
 # amounts = ['20', '60', '140']
-# amounts = ['5', '20', '45']
-# amounts = ['2', '6', '11']
-# amounts = ['10', '30', '70']
-# amounts = ['10', '30', '710']
-amounts = ['5', '15', '35']
-# amounts = ['5', '20', '40']
-# amounts = ['10', '25', '55']
-# amounts = ['1', '3', '9', '21']
-# amounts = ['15', '45', '90']
 # Utility to locate and cli10k an image
 def locate_and_click(image_key, confidence=0.8, wait_time=1):
     try:
